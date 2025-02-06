@@ -1,0 +1,31 @@
+Artist Reputation,Height,Width,Weight,Price Of Sculpture,Base Shipping Price,Area,Combined_Price,Duration,International,Express Shipment,Installation Included,Fragile,Material,Transport,Month,Year,Week,Customer Information,Customer Location,Cost
+0.5,8.0,4.0,515.0,5.66,19.8,32.0,25.46,0,No,No,No,No,Bronze,Roadways,12,2015,5,Working Class,AP,5.404207741805469
+0.94,17.0,6.0,217.0,4.98,24.17,102.0,29.150000000000002,2,Yes,No,Yes,No,Aluminium,Waterways,4,2016,4,Working Class,SD,6.604878347147814
+0.56,3.0,2.0,16.0,6.04,23.14,6.0,29.18,4,No,Yes,Yes,Yes,Clay,Roadways,10,2017,5,Wealthy,NH,5.641552398120067
+0.16,6.0,4.0,2118.0,6.79,11.49,24.0,18.28,0,Yes,No,No,No,Marble,Waterways,9,2015,3,Working Class,FL,5.232551425772417
+0.02,3.0,2.0,18.0,4.52,21.71,6.0,26.23,-2,Yes,Yes,No,No,Brass,Airways,8,2018,4,Working Class,LA,5.129543622299351
+0.02,28.0,14.0,1164.0,5.88,10.23,392.0,16.11,-4,No,Yes,No,No,Aluminium,Roadways,8,2017,3,Wealthy,MI,4.685735833827659
+0.4471186440677966,19.20967741935484,15.0,1859.0,6.59,18.44,288.1451612903226,25.03,4,Yes,Yes,Yes,No,Aluminium,Airways,7,2016,2,Wealthy,WY,5.887658378382393
+0.38,7.0,4.0,170.0,5.26,11.27,28.0,16.53,-2,No,No,No,No,Brass,Waterways,6,2016,1,Working Class,MO,4.991724269204496
+0.19,9.0,5.0,1172.0,5.07,13.57,45.0,18.64,-3,Yes,Yes,Yes,No,Brass,Airways,7,2018,4,Wealthy,AE,5.318806032975353
+0.31,5.0,5.0,29.0,4.11,16.01,25.0,20.12,-3,Yes,Yes,Yes,No,Wood,Airways,9,2015,1,Working Class,AK,4.958850650946495
+0.75,14.0,7.0,136.0,4.16,23.98,98.0,28.14,1,Yes,No,Yes,No,Wood,Airways,7,2015,1,Working Class,AL,6.216765768975991
+0.69,10.0,4.0,35.0,6.64,14.01,40.0,20.65,3,No,Yes,Yes,No,Wood,Roadways,7,2019,4,Wealthy,UT,5.919350739132674
+0.84,34.0,8.0,309.0,5.23,11.18,272.0,16.41,3,Yes,No,Yes,No,Wood,Roadways,6,2017,1,Working Class,NC,6.565983022033464
+0.06,19.0,15.0,571.0,6.37,13.1,285.0,19.47,-2,Yes,Yes,No,No,Wood,Airways,8,2015,0,Working Class,AZ,4.7825629495452935
+0.67,20.0,6.0,230.0,5.89,12.79,120.0,18.68,-2,Yes,No,Yes,No,Wood,Waterways,3,2015,6,Working Class,MD,5.649291089367011
+0.63,8.0,4.0,5228.0,8.7,68.79,32.0,77.49000000000001,-1,No,No,No,No,Wood,Roadways,3,2016,1,Wealthy,MT,6.814037830108231
+0.41,3.0,2.0,39.0,6.26,17.88,6.0,24.14,1,Yes,Yes,No,No,Stone,Airways,5,2016,6,Wealthy,IN,5.6612576422412
+0.0,18.0,9.0,7562.0,5.79,96.22,162.0,102.01,0,No,No,No,No,Bronze,Waterways,9,2018,4,Working Class,NJ,5.930785236296131
+0.59,16.0,8.0,4679.0,10.08,19.77,128.0,29.85,1,Yes,No,No,No,Wood,Airways,8,2018,2,Working Class,MS,5.945184978753801
+0.6,13.0,7.0,91.0,6.67,19.7,91.0,26.369999999999997,-3,No,Yes,No,No,Wood,Airways,8,2015,2,Working Class,HI,5.631426812464061
+0.27,9.0,4.0,188.0,6.64,16.81,36.0,23.45,4,No,No,No,Yes,Clay,Roadways,11,2018,0,Working Class,TN,5.167183098523235
+0.06,10.0,8.660714285714286,9102.0,9.89,96.42,86.60714285714286,106.31,-3,No,Yes,Yes,No,Marble,Roadways,3,2017,6,Working Class,KS,6.095734468283779
+0.48,15.0,8.0,202.0,3.11,20.16,120.0,23.27,2,No,No,Yes,No,Wood,Waterways,4,2016,0,Working Class,MO,5.490877991384453
+0.62,19.20967741935484,8.660714285714286,4618.0,6.2,17.45,166.36952764976962,23.65,2,No,No,Yes,Yes,Clay,Roadways,4,2019,3,Wealthy,AA,6.537691097924388
+0.38,12.0,6.0,1921.0,4.54,24.3,72.0,28.84,2,No,No,Yes,No,Brass,Roadways,10,2017,1,Working Class,IA,5.618986822951485
+0.64,16.0,8.0,182.0,4.14,11.47,128.0,15.61,4,No,No,Yes,No,Wood,Roadways,7,2016,5,Working Class,ME,5.519017936211107
+0.15,7.0,4.0,1233.0,6.89,23.86,28.0,30.75,3,No,No,Yes,No,Marble,Waterways,1,2019,5,Working Class,CO,5.494582919054
+0.83,14.0,7.0,1154.0,5.5,12.45,98.0,17.95,0,Yes,Yes,No,Yes,Clay,Airways,7,2019,6,Wealthy,CT,6.299610792692117
+0.92,16.0,7.0,3068.0,5.8,16.02,112.0,21.82,-1,No,Yes,Yes,No,Wood,Roadways,8,2019,5,Working Class,CA,6.628834712198929
+0.75,38.0,15.0,706.0,4.89,24.11,570.0,29.0,0,No,Yes,Yes,No,Wood,Roadways,11,2016,3,Wealthy,PA,6.8401293299736885

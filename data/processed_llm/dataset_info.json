@@ -1,0 +1,154 @@
+{
+    "HE_Scale100_Split82_DistOrd_JsonSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_DistOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "51d8d31e7af5b7681b0938d28bf1b2d03eb07ba7"
+    },
+    "HE_Scale100_Split82_DistOrd_ListTempSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_DistOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "f7d44df563ad9379783888daf8c6bc70cae9471d"
+    },
+    "HE_Scale100_Split82_DistOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_DistOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "374c71e395ad2266d90ec33028d4cf716db719a6"
+    },
+    "HE_Scale100_Split82_DistOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_DistOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "5f1c48ab6819260932fd64c32e71d61f7bbbca7e"
+    },
+    "HE_Scale100_Split82_InitOrd_JsonSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_InitOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "2da4a150118ec0cf4ce83a9d1711e82ebb285304"
+    },
+    "HE_Scale100_Split82_InitOrd_ListTempSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_InitOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "b9e0f775017693492a9610d687a90315df6cbd67"
+    },
+    "HE_Scale100_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "88f1bce6bdc4e301dd6fb998d0553f1adb041742"
+    },
+    "HE_Scale100_Split82_InitOrd_NamedFeatSeq_Cot1_En": {
+        "file_name": "HE_Scale100_Split82_InitOrd_NamedFeatSeq_Cot1_En_train.json",
+        "file_sha1": "edd8e619398da4bd4dd7abedac2fd7c46740e24b"
+    },
+    "HE_Scale100_Split82_InitOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_InitOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "0d55ecfcba8e484bf878e23db37cc138a6cb3c84"
+    },
+    "HE_Scale100_Split82_SeqeOrd_JsonSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_SeqeOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "9d95e0d53923fb397e913f61072114c600eb9852"
+    },
+    "HE_Scale100_Split82_SeqeOrd_ListTempSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_SeqeOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "b7df28eef3011a189d0604ac024f0ccec7f31d37"
+    },
+    "HE_Scale100_Split82_SeqeOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_SeqeOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "0dd34b2f0808db6cec5bad6ade84b57aa60101ce"
+    },
+    "HE_Scale100_Split82_SeqeOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "HE_Scale100_Split82_SeqeOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "208d31320a9f79a5e275f9110eaa986c44450221"
+    },
+    "HE_Scale1_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale1_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "6bb136ab10b528cdafefad2a5ef0743645b30e0d"
+    },
+    "HE_Scale2_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale2_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "524bf58ad0f9ade2fcdac339f3e58c33f8ad316e"
+    },
+    "HE_Scale40_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale40_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "2cf7b744d942e7aeaeba8f1d991bc06f0b5f285b"
+    },
+    "HE_Scale4_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "HE_Scale4_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "842627c0cd35c5952182258b780f42c2fe20f6e2"
+    },
+    "MC_Scale0.25_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale0.25_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "3a527e192712c2f743a82655489cea0535f27002"
+    },
+    "MC_Scale0.5_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale0.5_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "16e4f7f7d2fe09885efbda2266e30b39059c954b"
+    },
+    "MC_Scale100_Split37_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split37_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "e815b447917ce417815ab185c2a5f9ebbac71069"
+    },
+    "MC_Scale100_Split46_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split46_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "95a919652ae2f5328068617df6def1af0f6c0933"
+    },
+    "MC_Scale100_Split64_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split64_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "156317ff38089832f32c5b69f1761396f8b9f484"
+    },
+    "MC_Scale100_Split82_DistOrd_JsonSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_DistOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "cab48769723b00500f45a1b1e24009e77f9101a1"
+    },
+    "MC_Scale100_Split82_DistOrd_ListTempSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_DistOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "1b4d3b62ee1796f7cbf6d99367e800667af3e1e6"
+    },
+    "MC_Scale100_Split82_DistOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_DistOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "75971232e5ad316291739bea2cab68a975afb6bc"
+    },
+    "MC_Scale100_Split82_DistOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_DistOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "b3d0ee686d15ee693e0994dd8ca4548b963a0116"
+    },
+    "MC_Scale100_Split82_InitOrd_JsonSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_InitOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "0a84caa396f9804ad093fa3290330dfd6ee4383a"
+    },
+    "MC_Scale100_Split82_InitOrd_ListTempSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_InitOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "adc13f058e82a156eeede301d1f9a5f2b5e33194"
+    },
+    "MC_Scale100_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "0c7a223aa711eec86a0e37f3bb46aea58237d141"
+    },
+    "MC_Scale100_Split82_InitOrd_NamedFeatSeq_Cot1_En": {
+        "file_name": "MC_Scale100_Split82_InitOrd_NamedFeatSeq_Cot1_En_train.json",
+        "file_sha1": "3680d635baf49fd43f0aeb6603a67d8367132aae"
+    },
+    "MC_Scale100_Split82_InitOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_InitOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "2bdd2bd345956562206fc5a392b282160241b33c"
+    },
+    "MC_Scale100_Split82_SeqeOrd_JsonSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_SeqeOrd_JsonSeq_Cot0_En_train.json",
+        "file_sha1": "f247b0b57379489141f655b3b96b65aed6103de5"
+    },
+    "MC_Scale100_Split82_SeqeOrd_ListTempSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_SeqeOrd_ListTempSeq_Cot0_En_train.json",
+        "file_sha1": "eafed922cb320a89486847e06d992a70c540c9a1"
+    },
+    "MC_Scale100_Split82_SeqeOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_SeqeOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "e6c6e119aba3c85e7b93109dc7a46041d5a5e39f"
+    },
+    "MC_Scale100_Split82_SeqeOrd_ValueOnlySeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split82_SeqeOrd_ValueOnlySeq_Cot0_En_train.json",
+        "file_sha1": "5f4e21c31ae60da5b27dca70197020fb9162718f"
+    },
+    "MC_Scale100_Split91_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale100_Split91_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "5607e135b4f5611e32010ca68b1820bc398d19b6"
+    },
+    "MC_Scale10_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale10_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "ea7805158498bf5fcce58fa9ba9027338f3942a2"
+    },
+    "MC_Scale1_Split82_InitOrd_NamedFeatSeq_Cot0_En": {
+        "file_name": "MC_Scale1_Split82_InitOrd_NamedFeatSeq_Cot0_En_train.json",
+        "file_sha1": "34f7ca00bc41a3f6a32af29b2ae1b29cd1359b69"
+    }
+}
