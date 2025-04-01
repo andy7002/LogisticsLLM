@@ -1,5 +1,5 @@
 # Introduction
-This repository is the reporisity of **LogisticsLLM: Network Freight Price Prediction Based on Large Language Models**. 
+This repository contains the code for the paper **LogisticsLLM: Network Freight Price Prediction Based on Large Language Models**. 
 This paper introduces Large Language Models (LLMs) to predict network freight prices by using prior knowledge inherent in the
 LLMs.
 
